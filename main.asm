@@ -1,5 +1,4 @@
-;INTEGRANTES
-
+;author : Pedro Manuel Domingos 
 ;fazendo endereçamento dos dispositivos
 
 MATRIX_PIXEL EQU 8000H  ;constante que contem o valor do endereço do ecram
