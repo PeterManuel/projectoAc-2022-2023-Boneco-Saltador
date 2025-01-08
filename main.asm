@@ -1,8 +1,4 @@
 ;INTEGRANTES
-;Maria Francisco Joaquim
-;Gonídia Maugissa Gonçalo
-;Antônia Alfredo
-;Feliciano Antônio
 
 ;fazendo endereçamento dos dispositivos
 
